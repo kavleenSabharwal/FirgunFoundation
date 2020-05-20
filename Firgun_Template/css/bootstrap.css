@@ -9,9 +9,19 @@ html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+      width: 100%;
+      margin: 0%;
+      padding: 0;
 }
 body {
   margin: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  display: table;
+  font-family: Montserrat;
 }
 article,
 aside,
